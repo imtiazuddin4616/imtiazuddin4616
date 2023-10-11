@@ -1,18 +1,4 @@
-- 👋 Hi, I’m @imtiazuddin4616
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning MERN STACK
-- 📫Reach me at imtiazuddinedu@gmail.com
-
-<!---
-imtiazuddin4616/imtiazuddin4616 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Imtiaz uddin</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imtiazuddin4616&label=Profile%20views&color=0e75b6&style=flat" alt="imtiazuddin4616" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imtiazuddin4616&theme=" alt="imtiazuddin4616" /></a> </p>
-
 - 🔭 I’m currently working on **Hospital management system**
 - 🌱 I’m currently learning **React js**
 - 💬 Ask me about **Html,css,javascript**
@@ -37,6 +23,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/header_logo.svg" alt="React Native" width="40" height="40"/>
 </p>
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imtiazuddin4616&layout=compact&theme=" alt=imtiazuddin4616 />
+****
