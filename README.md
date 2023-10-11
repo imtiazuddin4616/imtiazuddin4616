@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imtiaz uddin</h1>
-- 🙋‍♂️ I'm a full-stack web developer (MERN STACK)
+- 🙋‍♂️ I'm a full-stack web developer (MERN STACK) <br>
 - 🔭 I’m currently working on  **Hospital management system** <br>
 - 🌱 I’m currently learning  **React js**<br>
 - 💬 Ask me about  **Html,CSS,Javascript**<br>
