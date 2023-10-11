@@ -4,7 +4,7 @@
  🌱 I’m currently learning  --> React js <br>
  💬 Ask me about  --> Html, CSS, Javascript<br>
  📫 How to reach me  --> imtiazuddinedu@gmail.com**<br>
- 👨‍💻 All of my projects are available at  --> Hospital management system<br>
+ 👨‍💻 All of my projects are available at  -->  <br>
  📄 Know about my experiences  --> Hospital management system <br>
 
 
