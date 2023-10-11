@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Imtiaz uddin</h1>
-- 🔭 I’m currently working on **Hospital management system** <br>
-- 🌱 I’m currently learning **React js**<br>
-- 💬 Ask me about **Html,css,javascript**<br>
-- 📫 How to reach me **imtiazuddinedu@gmail.com**<br>
-- 👨‍💻 All of my projects are available at **Hospital management system**<br>
-- 📄 Know about my experiences **Hospital management system** <br>
+- 🙋‍♂️ I'm a full-stack web developer (MERN STACK)
+- 🔭 I’m currently working on  **Hospital management system** <br>
+- 🌱 I’m currently learning  **React js**<br>
+- 💬 Ask me about  **Html,CSS,Javascript**<br>
+- 📫 How to reach me  **imtiazuddinedu@gmail.com**<br>
+- 👨‍💻 All of my projects are available at  **Hospital management system**<br>
+- 📄 Know about my experiences  **Hospital management system** <br>
 
 
 
